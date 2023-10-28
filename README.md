@@ -33,6 +33,6 @@
 <p align="center">
   Join me on this journey
 <p align="center">
-<a href= "https://www.linkedin.com/in/victoribit/"><img alt="Linkedin" width="22px" src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href="https://github.com/Victoribit"><img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
+<a href= "https://www.linkedin.com/in/victoribit/" target="_blank"><img alt="Linkedin" width="22px" src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href="https://github.com/Victoribit" target="_blank"><img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 </p>

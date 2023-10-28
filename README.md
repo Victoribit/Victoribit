@@ -1,6 +1,6 @@
 
 
-![]([https://github.com/Victoribit/Imagens/blob/34f534d115eca5e3798fd54761894ca6b0e6472e/Banner%20Dev%20-%20Para%20GitHub%20-%20Victor.png)]) 
+![](BannerParaGitHub.png)
 
 I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
 

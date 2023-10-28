@@ -1,6 +1,6 @@
 
 
-![](BannerParaGitHub.png)
+![](https://github.com/Victoribit/Imagens/blob/main/BannerParaGitHub.png)
 
 I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
 

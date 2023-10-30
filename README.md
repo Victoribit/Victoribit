@@ -1,6 +1,6 @@
 
 
-![](https://github.com/Victoribit/Imagens/blob/main/BannerParaGitHub.png)
+![](https://github.com/Victoribit/Imagens/blob/main/BannerDevParaGitHub.png)
 
 # 🙋‍♂️ Hello there!
 
